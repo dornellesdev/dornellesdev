@@ -41,10 +41,10 @@ Projeto de um site institucional moderno para uma academia local, com foco em co
 ---
 
 ## 📫 Vamos conversar?
-Se você tem um projeto em mente ou quer trocar uma ideia sobre tecnologia e agronegócio, entre em contato!
+Se você tem um projeto em mente ou quer trocar uma ideia sobre tecnologia entre em contato!
 
 <div align="left">
-  <a href="https://wa.me/5514999999999" target="_blank">
+  <a href="https://wa.me/5514996818471" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
